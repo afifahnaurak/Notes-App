@@ -37,6 +37,7 @@ const Login = ({ onFinish, navigation }) => {
 
   return (
     <>
+      <StatusBar hidden />
       <View style={styles.container}>
         <Text style={styles.header}>{`Login`}</Text>
         <Image source={require('../assets/notes.png') } style={styles.img} />
