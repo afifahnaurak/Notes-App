@@ -57,7 +57,7 @@ const NoteNew = ({ visible, onClose, onSubmit, note, isEdit }) => {
             onPress={closeModal}
             style={styles.arrow}
           />
-          <Text style={styles.header}>{`Note`}</Text>
+          <Text style={styles.header}>{`New Note`}</Text>
         </View>
           <TextInput
             value={title}
