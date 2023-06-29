@@ -2,10 +2,6 @@
 
 Afifah Naura Kamilia / 3.34.21.3.02 / IK-2D
 
-Login
-Username : afifah
-Password : afifah
-
 <img width="209" alt="13" src="https://user-images.githubusercontent.com/56423411/206850234-c57e80f7-c838-4fec-a61d-98ad6fda2a83.png">       <img width="208" alt="12" src="https://user-images.githubusercontent.com/56423411/206850438-fef42574-9f00-44d2-bc17-3cbc3c73a495.png">
 <img width="208" alt="16" src="https://user-images.githubusercontent.com/56423411/206851629-84678e6f-198f-4cf7-81f0-0841f09b450a.png">
 <img width="208" alt="2" src="https://user-images.githubusercontent.com/56423411/206850610-b27f5e03-ae0f-49a1-93ff-84d7331f9e63.png">
